@@ -1,4 +1,5 @@
 ﻿using RabbitMQ.Client;
+using RabbitMQ.Client.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,13 +26,13 @@ namespace RabbitMQDemo
             }
             catch (RabbitMQ.Client.Exceptions.OperationInterruptedException)
             {
-                _channel.QueueDeclare(
-                    queue: _queueName,
-                    durable: true,
-                    exclusive: false,
-                    autoDelete: false,
-                    arguments: null
-                );
+                _channel.QueueDeclare(queue: "testQueue",
+                     durable: true,  // 💾 Sobrevive reinicios del servidor
+                     exclusive: false,
+                     autoDelete: false,
+                     arguments: null);
+
+                
             }
         }
 
