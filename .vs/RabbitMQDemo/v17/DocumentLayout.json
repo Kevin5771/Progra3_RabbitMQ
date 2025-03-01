@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\RabbitMQDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|c:\\users\\kevin\\rabbitmqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|c:\\users\\kevin\\rabbitmqdemo\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|solutionrelative:queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|c:\\users\\kevin\\rabbitmqdemo\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|solutionrelative:iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|c:\\users\\kevin\\rabbitmqdemo\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7637B025-7B58-2657-FF52-8FEDF2FF3B8D}|RabbitMQDemo.csproj|solutionrelative:rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\RabbitMQDemo\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\kevin\\RabbitMQDemo\\RabbitMQService.cs",
+              "RelativeToolTip": "RabbitMQService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:01:56.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\RabbitMQDemo\\IQueueService.cs",
+              "RelativeDocumentMoniker": "IQueueService.cs",
+              "ToolTip": "C:\\Users\\kevin\\RabbitMQDemo\\IQueueService.cs",
+              "RelativeToolTip": "IQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:01:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\RabbitMQDemo\\QueueManager.cs",
+              "RelativeDocumentMoniker": "QueueManager.cs",
+              "ToolTip": "C:\\Users\\kevin\\RabbitMQDemo\\QueueManager.cs",
+              "RelativeToolTip": "QueueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:00:00.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\RabbitMQDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\RabbitMQDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:55:54.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
